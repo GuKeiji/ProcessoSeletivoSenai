@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\models\\taskenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:models\\taskenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|c:\\users\\senai\\documents\\processoseletivo\\taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91AB1B7F-765B-498C-986D-29C0851CC2DE}|TaskApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:53:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:46:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskEnum.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Models\\TaskEnum.cs",
+              "RelativeDocumentMoniker": "Models\\TaskEnum.cs",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Models\\TaskEnum.cs",
+              "RelativeToolTip": "Models\\TaskEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:43:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Models\\TaskModel.cs",
+              "RelativeToolTip": "Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:42:28.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T11:39:06.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SENAI\\Documents\\ProcessoSeletivo\\TaskApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:38:59.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
